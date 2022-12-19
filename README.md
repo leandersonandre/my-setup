@@ -6,6 +6,8 @@
 
 iMovie
 
+FreeForm
+
 ### Utilitaries
 
 Amphetamine
@@ -37,6 +39,8 @@ tot
 kindle
 
 Flow
+
+Expenses
 
 ### Fun
 
@@ -70,4 +74,6 @@ MysqlWorkbench
 
 Postman canary
 
+VSCode
 
+Texmate
