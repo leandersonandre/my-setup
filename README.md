@@ -77,3 +77,7 @@ Postman canary
 VSCode
 
 Texmate
+
+git
+
+homebrew
